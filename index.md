@@ -18,7 +18,7 @@
 <img src="images/TT.jpg?raw=true"/>
 
 ---
-[Moser Contract](https://www.fg.mosercontract.com/){:target="_blank"}
+[Moser Contract](https://fg.mosercontract.com/){:target="_blank"}
 <img src="images/MOSERCONTRACT.jpg?raw=true"/>
 
 ---
