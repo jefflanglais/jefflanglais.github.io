@@ -31,7 +31,3 @@
 <img class="thumbnail" src="images/WARREN.jpg?raw=true"/>
 
 ---
-[Fruit Punch Gift Cards by Cashstar](https://fruitpunchapp.semi.cashstar.com/){:target="_blank"}
-<img class="thumbnail" src="images/FRUITPUNCH.jpg?raw=true"/>
-
----
