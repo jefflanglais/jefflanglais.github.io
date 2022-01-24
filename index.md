@@ -10,7 +10,6 @@
 <img class="thumbnail" src="images/LBP.jpg?raw=true"/>
 
 ---
-Renew Finncial
 <img class="thumbnail" src="images/RENEW.jpg?raw=true"/>
 
 ---
@@ -23,7 +22,6 @@ Renew Finncial
 <img class="thumbnail" src="images/TT.jpg?raw=true"/>
 
 ---
-Brower Mechanical
 <img class="thumbnail" src="images/BROWER.jpg?raw=true"/>
 
 ---
@@ -36,7 +34,6 @@ Brower Mechanical
 <img class="thumbnail" src="images/PHIUS.jpg?raw=true"/>
 
 ---
-Nispen Building Performance
 <img class="thumbnail" src="images/NISPEN.jpg?raw=true"/>
 
 ---
