@@ -6,20 +6,19 @@
 <img class="thumbnail" src="images/FOUNDATION.jpg?raw=true"/>
 
 ---
-[LBP Fine Art Consultants](https://lbpfineart.com/){:target="_blank"}
-<img class="thumbnail" src="images/LBP.jpg?raw=true"/>
+[Fruit Punch App (Cashstar)](https://fruitpunchapp.cashstar.com/){:target="_blank"}
+<img class="thumbnail" src="images/FRUITPUNCH.jpg?raw=true"/>
 
 ---
 <img class="thumbnail" src="images/RENEW.jpg?raw=true"/>
 
 ---
-
-[The Mooring](https://themooringonforeside.com/){:target="_blank"}
-<img class="thumbnail" src="images/THEMOORING.jpg?raw=true"/>
+[Building Science Corporation](https://www.buildingscience.com/){:target="_blank"}
+<img class="thumbnail" src="images/BSC.jpg?raw=true"/>
 
 ---
-[Theodore + Theodore Architects](https://www.2tarch.com/){:target="_blank"}
-<img class="thumbnail" src="images/TT.jpg?raw=true"/>
+[The Mooring](https://themooringonforeside.com/){:target="_blank"}
+<img class="thumbnail" src="images/THEMOORING.jpg?raw=true"/>
 
 ---
 <img class="thumbnail" src="images/BROWER.jpg?raw=true"/>
